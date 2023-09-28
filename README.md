@@ -3,4 +3,4 @@ This is a short Python script I made one day because I was curious about the how
 
 Here is the intresting pattren it makes:
 
-![alt text](./ReadmeImage/newplot%20(23).png)
+![Image Of Graph](./ReadmeImage/newplot%20(23).png)
