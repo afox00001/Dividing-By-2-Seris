@@ -3,4 +3,4 @@ This is a short Python script I made one day because I was curious about the how
 
 Here is the intresting pattren it makes:
 
-![alt text]([http://url/to/img.png](https://github.com/afox00001/Dividing-By-2-Seris/blob/main/ReadmeImage/newplot%20(23).png?raw=true)https://github.com/afox00001/Dividing-By-2-Seris/blob/main/ReadmeImage/newplot%20(23).png?raw=true)
+![alt text]([[http://url/to/img.png](https://raw.githubusercontent.com/afox00001/Dividing-By-2-Seris/main/ReadmeImage/newplot%20(23).png)](https://github.com/afox00001/Dividing-By-2-Seris/blob/main/ReadmeImage/newplot%20(23).png?raw=true)https://github.com/afox00001/Dividing-By-2-Seris/blob/main/ReadmeImage/newplot%20(23))
